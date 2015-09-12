@@ -1,0 +1,13 @@
+* NFL
+
+** url format
+http://www.nfl.com/liveupdate/game-center/2014090400/2014090400_gtd.json
+http://www.nfl.com/liveupdate/game-center/2014090700/2014090700_gtd.json
+
+** class 'game-center-list'
+   then need to get '2014090711' and so forth, that is the game_id
+<a href="/gamecenter/2014090711/2014/REG1/panthers@buccaneers" class="game-center-link" onclick="s_objectID=&quot;http://www.nfl.com/gamecenter/2014090711/2014/REG1/panthers@buccaneers_1&quot;;return this.s_oc?this.s_oc(e):true" id="yui_3_10_3_2_1433010033669_1744"><img src="http://i.nflcdn.com/static/site/7.1/img/scores/game-center-active.png" alt=""></a>
+
+* CFB
+
+
