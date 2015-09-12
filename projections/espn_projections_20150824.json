@@ -1,0 +1,3522 @@
+[
+    {
+        "espn_id": "15825", 
+        "fantasy_points": "208.5", 
+        "full_name": "Le'Veon Bell", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "10452", 
+        "fantasy_points": "222.6", 
+        "full_name": "Adrian Peterson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "15848", 
+        "fantasy_points": "229.6", 
+        "full_name": "Eddie Lacy", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "11307", 
+        "fantasy_points": "225.7", 
+        "full_name": "Jamaal Charles", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "10456", 
+        "fantasy_points": "222.6", 
+        "full_name": "Marshawn Lynch", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "13934", 
+        "fantasy_points": "208.7", 
+        "full_name": "Antonio Brown", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "16040", 
+        "fantasy_points": "215.6", 
+        "full_name": "C.J. Anderson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "11278", 
+        "fantasy_points": "205.4", 
+        "full_name": "Matt Forte", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "14005", 
+        "fantasy_points": "197.6", 
+        "full_name": "DeMarco Murray", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "13216", 
+        "fantasy_points": "195", 
+        "full_name": "Demaryius Thomas", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "12514", 
+        "fantasy_points": "203.5", 
+        "full_name": "LeSean McCoy", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "13229", 
+        "fantasy_points": "155", 
+        "full_name": "Rob Gronkowski", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "13215", 
+        "fantasy_points": "194", 
+        "full_name": "Dez Bryant", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "16803", 
+        "fantasy_points": "199.6", 
+        "full_name": "Jeremy Hill", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "16733", 
+        "fantasy_points": "187", 
+        "full_name": "Odell Beckham Jr.", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "11270", 
+        "fantasy_points": "186", 
+        "full_name": "Jordy Nelson", 
+        "injury": true, 
+        "position": "Nelson", 
+        "team": "Jordy"
+    }, 
+    {
+        "espn_id": "13982", 
+        "fantasy_points": "187.1", 
+        "full_name": "Julio Jones", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "10447", 
+        "fantasy_points": "188", 
+        "full_name": "Calvin Johnson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "13983", 
+        "fantasy_points": "175.1", 
+        "full_name": "A.J. Green", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "8439", 
+        "fantasy_points": "325.1", 
+        "full_name": "Aaron Rodgers", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "14912", 
+        "fantasy_points": "173", 
+        "full_name": "Alshon Jeffery", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "14053", 
+        "fantasy_points": "172", 
+        "full_name": "Randall Cobb", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "14924", 
+        "fantasy_points": "167.6", 
+        "full_name": "T.Y. Hilton", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "13981", 
+        "fantasy_points": "187.6", 
+        "full_name": "Mark Ingram", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "14874", 
+        "fantasy_points": "321.2", 
+        "full_name": "Andrew Luck", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "16737", 
+        "fantasy_points": "160", 
+        "full_name": "Mike Evans", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "13295", 
+        "fantasy_points": "154", 
+        "full_name": "Emmanuel Sanders", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "15009", 
+        "fantasy_points": "184.5", 
+        "full_name": "Alfred Morris", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "14886", 
+        "fantasy_points": "183.4", 
+        "full_name": "Lamar Miller", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "15795", 
+        "fantasy_points": "147.1", 
+        "full_name": "DeAndre Hopkins", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "16731", 
+        "fantasy_points": "151.8", 
+        "full_name": "Brandin Cooks", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "13232", 
+        "fantasy_points": "124.1", 
+        "full_name": "Jimmy Graham", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "16777", 
+        "fantasy_points": "176.5", 
+        "full_name": "Carlos Hyde", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "11467", 
+        "fantasy_points": "175.4", 
+        "full_name": "Justin Forsett", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "16763", 
+        "fantasy_points": "141", 
+        "full_name": "Jordan Matthews", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "14881", 
+        "fantasy_points": "301.7", 
+        "full_name": "Russell Wilson", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "17586", 
+        "fantasy_points": "158.3", 
+        "full_name": "Melvin Gordon", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "1428", 
+        "fantasy_points": "296", 
+        "full_name": "Peyton Manning", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "11247", 
+        "fantasy_points": "172.4", 
+        "full_name": "Jonathan Stewart", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "12649", 
+        "fantasy_points": "138", 
+        "full_name": "Julian Edelman", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "16725", 
+        "fantasy_points": "140", 
+        "full_name": "Sammy Watkins", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "8479", 
+        "fantasy_points": "171.4", 
+        "full_name": "Frank Gore", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "2580", 
+        "fantasy_points": "297.8", 
+        "full_name": "Drew Brees", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "15818", 
+        "fantasy_points": "139.6", 
+        "full_name": "Keenan Allen", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "17683", 
+        "fantasy_points": "131.3", 
+        "full_name": "Todd Gurley", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "13536", 
+        "fantasy_points": "158.5", 
+        "full_name": "Joique Bell", 
+        "injury": true, 
+        "position": "Bell", 
+        "team": "Joique"
+    }, 
+    {
+        "espn_id": "11283", 
+        "fantasy_points": "132.3", 
+        "full_name": "DeSean Jackson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "15920", 
+        "fantasy_points": "160.4", 
+        "full_name": "Latavius Murray", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "8475", 
+        "fantasy_points": "129", 
+        "full_name": "Vincent Jackson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "16013", 
+        "fantasy_points": "158.5", 
+        "full_name": "Joseph Randle", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "15893", 
+        "fantasy_points": "157.4", 
+        "full_name": "Andre Ellington", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17678", 
+        "fantasy_points": "153.4", 
+        "full_name": "T.J. Yeldon", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "15826", 
+        "fantasy_points": "136.3", 
+        "full_name": "Giovani Bernard", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "12503", 
+        "fantasy_points": "128.4", 
+        "full_name": "Rashad Jennings", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "13203", 
+        "fantasy_points": "134.6", 
+        "full_name": "C.J. Spiller", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "17677", 
+        "fantasy_points": "132", 
+        "full_name": "Amari Cooper", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "13217", 
+        "fantasy_points": "130.1", 
+        "full_name": "Golden Tate", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "4461", 
+        "fantasy_points": "135.1", 
+        "full_name": "Andre Johnson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "9705", 
+        "fantasy_points": "135", 
+        "full_name": "Brandon Marshall", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "12601", 
+        "fantasy_points": "122", 
+        "full_name": "Mike Wallace", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "12579", 
+        "fantasy_points": "133.7", 
+        "full_name": "Jeremy Maclin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "13213", 
+        "fantasy_points": "134.4", 
+        "full_name": "LeGarrette Blount", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "10475", 
+        "fantasy_points": "115.3", 
+        "full_name": "Greg Olsen", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "17133", 
+        "fantasy_points": "122.3", 
+        "full_name": "Isaiah Crowell", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "16790", 
+        "fantasy_points": "131.2", 
+        "full_name": "Jarvis Landry", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "13587", 
+        "fantasy_points": "125.3", 
+        "full_name": "Chris Ivory", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "13204", 
+        "fantasy_points": "126.6", 
+        "full_name": "Ryan Mathews", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "16799", 
+        "fantasy_points": "131", 
+        "full_name": "Allen Robinson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "5536", 
+        "fantasy_points": "281.8", 
+        "full_name": "Ben Roethlisberger", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "15847", 
+        "fantasy_points": "107.3", 
+        "full_name": "Travis Kelce", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "13271", 
+        "fantasy_points": "123", 
+        "full_name": "Eric Decker", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "16886", 
+        "fantasy_points": "114", 
+        "full_name": "Martavis Bryant", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "17668", 
+        "fantasy_points": "114.1", 
+        "full_name": "Nelson Agholor", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "14017", 
+        "fantasy_points": "112.3", 
+        "full_name": "Shane Vereen", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "8442", 
+        "fantasy_points": "110.1", 
+        "full_name": "Roddy White", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "11295", 
+        "fantasy_points": "103.9", 
+        "full_name": "Martellus Bennett", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "14032", 
+        "fantasy_points": "118", 
+        "full_name": "Torrey Smith", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "16784", 
+        "fantasy_points": "90.2", 
+        "full_name": "Tre Mason", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "14885", 
+        "fantasy_points": "118.2", 
+        "full_name": "Doug Martin", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "14908", 
+        "fantasy_points": "113.1", 
+        "full_name": "Michael Floyd", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "4527", 
+        "fantasy_points": "103", 
+        "full_name": "Jason Witten", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "17689", 
+        "fantasy_points": "141.4", 
+        "full_name": "Tevin Coleman", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "11237", 
+        "fantasy_points": "275.6", 
+        "full_name": "Matt Ryan", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "15885", 
+        "fantasy_points": "119", 
+        "full_name": "Charles Johnson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "5528", 
+        "fantasy_points": "113", 
+        "full_name": "Larry Fitzgerald", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17134", 
+        "fantasy_points": "87.2", 
+        "full_name": "Alfred Blue", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "14189", 
+        "fantasy_points": "93.7", 
+        "full_name": "Jordan Cameron", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "12576", 
+        "fantasy_points": "122.4", 
+        "full_name": "Brandon LaFell", 
+        "injury": true, 
+        "position": "LaFell", 
+        "team": "Brandon"
+    }, 
+    {
+        "espn_id": "17580", 
+        "fantasy_points": "125.3", 
+        "full_name": "Ameer Abdullah", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "16944", 
+        "fantasy_points": "130.4", 
+        "full_name": "Devonta Freeman", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "16794", 
+        "fantasy_points": "124.3", 
+        "full_name": "Bishop Sankey", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "12497", 
+        "fantasy_points": "146.3", 
+        "full_name": "Arian Foster", 
+        "injury": true, 
+        "position": "Foster", 
+        "team": "Arian"
+    }, 
+    {
+        "espn_id": "9838", 
+        "fantasy_points": "109", 
+        "full_name": "Marques Colston", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "17658", 
+        "fantasy_points": "108.3", 
+        "full_name": "Duke Johnson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "11238", 
+        "fantasy_points": "76.2", 
+        "full_name": "Darren McFadden", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "16804", 
+        "fantasy_points": "104", 
+        "full_name": "John Brown", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "13994", 
+        "fantasy_points": "269.6", 
+        "full_name": "Cam Newton", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "11788", 
+        "fantasy_points": "87.2", 
+        "full_name": "Danny Woodhead", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "17674", 
+        "fantasy_points": "114", 
+        "full_name": "Breshad Perriman", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "16749", 
+        "fantasy_points": "98.2", 
+        "full_name": "Charles Sims", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "16889", 
+        "fantasy_points": "83.2", 
+        "full_name": "Andre Williams", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "16950", 
+        "fantasy_points": "85.2", 
+        "full_name": "Lorenzo Taliaferro", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "10195", 
+        "fantasy_points": "63.2", 
+        "full_name": "Fred Jackson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "14909", 
+        "fantasy_points": "110", 
+        "full_name": "Kendall Wright", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "2622", 
+        "fantasy_points": "98.1", 
+        "full_name": "Steve Smith Sr.", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "15823", 
+        "fantasy_points": "92.3", 
+        "full_name": "Montee Ball", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "4512", 
+        "fantasy_points": "102", 
+        "full_name": "Anquan Boldin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "17682", 
+        "fantasy_points": "115", 
+        "full_name": "Devin Funchess", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "9613", 
+        "fantasy_points": "55.1", 
+        "full_name": "DeAngelo Williams", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "15832", 
+        "fantasy_points": "87", 
+        "full_name": "Knile Davis", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "15835", 
+        "fantasy_points": "93.5", 
+        "full_name": "Zach Ertz", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "5209", 
+        "fantasy_points": "278", 
+        "full_name": "Tony Romo", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "11439", 
+        "fantasy_points": "99", 
+        "full_name": "Pierre Garcon", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "16800", 
+        "fantasy_points": "117", 
+        "full_name": "Davante Adams", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "14204", 
+        "fantasy_points": "107.7", 
+        "full_name": "Julius Thomas", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "2330", 
+        "fantasy_points": "221.4", 
+        "full_name": "Tom Brady", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "15951", 
+        "fantasy_points": "76.9", 
+        "full_name": "Denard Robinson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "17593", 
+        "fantasy_points": "112", 
+        "full_name": "DeVante Parker", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "16793", 
+        "fantasy_points": "116", 
+        "full_name": "Cody Latimer", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "14901", 
+        "fantasy_points": "89.5", 
+        "full_name": "Dwayne Allen", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "17578", 
+        "fantasy_points": "42.1", 
+        "full_name": "David Cobb", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15994", 
+        "fantasy_points": "50.1", 
+        "full_name": "Theo Riddick", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "16782", 
+        "fantasy_points": "64.1", 
+        "full_name": "Jerick McKinnon", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "9588", 
+        "fantasy_points": "69.5", 
+        "full_name": "Reggie Bush", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "16791", 
+        "fantasy_points": "78", 
+        "full_name": "Donte Moncrief", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "60026", 
+        "fantasy_points": "187", 
+        "full_name": "SEA_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "SEA"
+    }, 
+    {
+        "espn_id": "16783", 
+        "fantasy_points": "73.3", 
+        "full_name": "Terrance West", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "60002", 
+        "fantasy_points": "137", 
+        "full_name": "BUF_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "BUF"
+    }, 
+    {
+        "espn_id": "13553", 
+        "fantasy_points": "114", 
+        "full_name": "Victor Cruz", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "17556", 
+        "fantasy_points": "28.1", 
+        "full_name": "Jay Ajayi", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "11276", 
+        "fantasy_points": "101.3", 
+        "full_name": "Eddie Royal", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "60034", 
+        "fantasy_points": "132", 
+        "full_name": "HOU_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "HOU"
+    }, 
+    {
+        "espn_id": "60014", 
+        "fantasy_points": "124", 
+        "full_name": "STL_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "STL"
+    }, 
+    {
+        "espn_id": "8544", 
+        "fantasy_points": "63.9", 
+        "full_name": "Darren Sproles", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "12569", 
+        "fantasy_points": "97.8", 
+        "full_name": "Percy Harvin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "17442", 
+        "fantasy_points": "40.1", 
+        "full_name": "David Johnson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "15364", 
+        "fantasy_points": "73.2", 
+        "full_name": "Jonas Gray", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "15072", 
+        "fantasy_points": "76", 
+        "full_name": "Marvin Jones", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "60020", 
+        "fantasy_points": "111", 
+        "full_name": "NYJ_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "60007", 
+        "fantasy_points": "113", 
+        "full_name": "DEN_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "DEN"
+    }, 
+    {
+        "espn_id": "60033", 
+        "fantasy_points": "109", 
+        "full_name": "BAL_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "BAL"
+    }, 
+    {
+        "espn_id": "60015", 
+        "fantasy_points": "117", 
+        "full_name": "MIA_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "MIA"
+    }, 
+    {
+        "espn_id": "60022", 
+        "fantasy_points": "101", 
+        "full_name": "ARI_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "ARI"
+    }, 
+    {
+        "espn_id": "16913", 
+        "fantasy_points": "79.2", 
+        "full_name": "James White", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "9761", 
+        "fantasy_points": "91.6", 
+        "full_name": "Delanie Walker", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15041", 
+        "fantasy_points": "70.2", 
+        "full_name": "Daniel Herron", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "60008", 
+        "fantasy_points": "102", 
+        "full_name": "DET_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "DET"
+    }, 
+    {
+        "espn_id": "14876", 
+        "fantasy_points": "274.6", 
+        "full_name": "Ryan Tannehill", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "6016", 
+        "fantasy_points": "102", 
+        "full_name": "Malcom Floyd", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "5526", 
+        "fantasy_points": "271.9", 
+        "full_name": "Eli Manning", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "9704", 
+        "fantasy_points": "138", 
+        "full_name": "Stephen Gostkowski", 
+        "injury": false, 
+        "position": "K", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "1097", 
+        "fantasy_points": "136", 
+        "full_name": "Adam Vinatieri", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "11923", 
+        "fantasy_points": "134", 
+        "full_name": "Steven Hauschka", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "11737", 
+        "fantasy_points": "134", 
+        "full_name": "Connor Barth", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "15683", 
+        "fantasy_points": "132", 
+        "full_name": "Justin Tucker", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "17173", 
+        "fantasy_points": "134", 
+        "full_name": "Cody Parkey", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "11122", 
+        "fantasy_points": "132", 
+        "full_name": "Matt Prater", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "4333", 
+        "fantasy_points": "131", 
+        "full_name": "Matt Bryant", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "14322", 
+        "fantasy_points": "130", 
+        "full_name": "Dan Bailey", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "11688", 
+        "fantasy_points": "130", 
+        "full_name": "Dan Carpenter", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "16530", 
+        "fantasy_points": "40.1", 
+        "full_name": "Khiry Robinson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "14192", 
+        "fantasy_points": "83.2", 
+        "full_name": "Roy Helu", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "14221", 
+        "fantasy_points": "97.4", 
+        "full_name": "Doug Baldwin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "14028", 
+        "fantasy_points": "28.1", 
+        "full_name": "Stevan Ridley", 
+        "injury": true, 
+        "position": "Ridley", 
+        "team": "Stevan"
+    }, 
+    {
+        "espn_id": "17665", 
+        "fantasy_points": "81", 
+        "full_name": "Dorial Green-Beckham", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "5529", 
+        "fantasy_points": "262.7", 
+        "full_name": "Philip Rivers", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "17704", 
+        "fantasy_points": "43.1", 
+        "full_name": "Cameron Artis-Payne", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "12563", 
+        "fantasy_points": "93", 
+        "full_name": "Michael Crabtree", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "17695", 
+        "fantasy_points": "57.1", 
+        "full_name": "Matt Jones", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "17143", 
+        "fantasy_points": "33.1", 
+        "full_name": "Branden Oliver", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "12483", 
+        "fantasy_points": "261.7", 
+        "full_name": "Matthew Stafford", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "5362", 
+        "fantasy_points": "73.7", 
+        "full_name": "Antonio Gates", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "12489", 
+        "fantasy_points": "2", 
+        "full_name": "Donald Brown", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "14914", 
+        "fantasy_points": "94", 
+        "full_name": "Brian Quick", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "14001", 
+        "fantasy_points": "252.2", 
+        "full_name": "Colin Kaepernick", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "15855", 
+        "fantasy_points": "20", 
+        "full_name": "Christine Michael", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "15878", 
+        "fantasy_points": "104", 
+        "full_name": "Terrance Williams", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "13197", 
+        "fantasy_points": "246.7", 
+        "full_name": "Sam Bradford", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "17505", 
+        "fantasy_points": "19", 
+        "full_name": "Jeremy Langford", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "4459", 
+        "fantasy_points": "243.4", 
+        "full_name": "Carson Palmer", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17616", 
+        "fantasy_points": "54.1", 
+        "full_name": "Javorius Allen", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "15707", 
+        "fantasy_points": "86.9", 
+        "full_name": "Larry Donnell", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "16787", 
+        "fantasy_points": "61", 
+        "full_name": "Marqise Lee", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "17138", 
+        "fantasy_points": "34.9", 
+        "full_name": "Damien Williams", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "17709", 
+        "fantasy_points": "49", 
+        "full_name": "Jaelen Strong", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "16016", 
+        "fantasy_points": "92", 
+        "full_name": "Kenny Stills", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "60016", 
+        "fantasy_points": "97", 
+        "full_name": "MIN_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "MIN"
+    }, 
+    {
+        "espn_id": "60017", 
+        "fantasy_points": "126", 
+        "full_name": "NE_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "10636", 
+        "fantasy_points": "129", 
+        "full_name": "Mason Crosby", 
+        "injury": false, 
+        "position": "K", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "16728", 
+        "fantasy_points": "242.4", 
+        "full_name": "Teddy Bridgewater", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "15918", 
+        "fantasy_points": "129", 
+        "full_name": "Caleb Sturgis", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "9597", 
+        "fantasy_points": "241.6", 
+        "full_name": "Jay Cutler", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "14894", 
+        "fantasy_points": "41.1", 
+        "full_name": "Robert Turbin", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "9684", 
+        "fantasy_points": "80.9", 
+        "full_name": "Owen Daniels", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "14911", 
+        "fantasy_points": "93", 
+        "full_name": "Rueben Randle", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "16795", 
+        "fantasy_points": "81.5", 
+        "full_name": "Austin Seferian-Jenkins", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "17145", 
+        "fantasy_points": "96", 
+        "full_name": "Brandon Coleman", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "13214", 
+        "fantasy_points": "50.1", 
+        "full_name": "James Starks", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "14921", 
+        "fantasy_points": "46", 
+        "full_name": "Nick Toon", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "11252", 
+        "fantasy_points": "237.5", 
+        "full_name": "Joe Flacco", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "10467", 
+        "fantasy_points": "78", 
+        "full_name": "Dwayne Bowe", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "15873", 
+        "fantasy_points": "81", 
+        "full_name": "Markus Wheaton", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "14884", 
+        "fantasy_points": "9", 
+        "full_name": "Trent Richardson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "16143", 
+        "fantasy_points": "77.6", 
+        "full_name": "Josh Hill", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "14889", 
+        "fantasy_points": "30.1", 
+        "full_name": "Chris Polk", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "15807", 
+        "fantasy_points": "37.4", 
+        "full_name": "Cordarrelle Patterson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "16023", 
+        "fantasy_points": "36", 
+        "full_name": "Marquess Wilson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "15457", 
+        "fantasy_points": "2", 
+        "full_name": "Travaris Cadet", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "17700", 
+        "fantasy_points": "2", 
+        "full_name": "Mike Davis", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "14895", 
+        "fantasy_points": "20", 
+        "full_name": "Ronnie Hillman", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "15996", 
+        "fantasy_points": "22", 
+        "full_name": "Zac Stacy", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "13211", 
+        "fantasy_points": "35.1", 
+        "full_name": "Toby Gerhart", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "15860", 
+        "fantasy_points": "81.2", 
+        "full_name": "Jordan Reed", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "17399", 
+        "fantasy_points": "238.4", 
+        "full_name": "Jameis Winston", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "14054", 
+        "fantasy_points": "81.9", 
+        "full_name": "Kyle Rudolph", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "11258", 
+        "fantasy_points": "47.1", 
+        "full_name": "Chris Johnson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17643", 
+        "fantasy_points": "67.8", 
+        "full_name": "Phillip Dorsett", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "10713", 
+        "fantasy_points": "0", 
+        "full_name": "Pierre Thomas", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "8444", 
+        "fantasy_points": "81.9", 
+        "full_name": "Heath Miller", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "60009", 
+        "fantasy_points": "108", 
+        "full_name": "GB_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "60021", 
+        "fantasy_points": "114", 
+        "full_name": "PHI_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "PHI"
+    }, 
+    {
+        "espn_id": "15058", 
+        "fantasy_points": "128", 
+        "full_name": "Blair Walsh", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "1440", 
+        "fantasy_points": "127", 
+        "full_name": "Phil Dawson", 
+        "injury": false, 
+        "position": "K", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "11458", 
+        "fantasy_points": "91", 
+        "full_name": "Stevie Johnson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "15845", 
+        "fantasy_points": "42", 
+        "full_name": "Justin Hunter", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "14184", 
+        "fantasy_points": "63", 
+        "full_name": "Cecil Shorts III", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "10693", 
+        "fantasy_points": "0", 
+        "full_name": "Ahmad Bradshaw", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "15349", 
+        "fantasy_points": "66.2", 
+        "full_name": "Cole Beasley", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "9638", 
+        "fantasy_points": "62", 
+        "full_name": "Greg Jennings", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "14360", 
+        "fantasy_points": "31.1", 
+        "full_name": "Matt Asiata", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "13158", 
+        "fantasy_points": "19.1", 
+        "full_name": "Antone Smith", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "17619", 
+        "fantasy_points": "86.7", 
+        "full_name": "Tyler Lockett", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "12556", 
+        "fantasy_points": "87", 
+        "full_name": "Kenny Britt", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "13958", 
+        "fantasy_points": "67", 
+        "full_name": "Andrew Hawkins", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "17622", 
+        "fantasy_points": "27.1", 
+        "full_name": "Josh Robinson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "17163", 
+        "fantasy_points": "82", 
+        "full_name": "Allen Hurns", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "12568", 
+        "fantasy_points": "58", 
+        "full_name": "Brian Hartline", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "17167", 
+        "fantasy_points": "30", 
+        "full_name": "Corey Brown", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "16779", 
+        "fantasy_points": "28", 
+        "full_name": "Josh Huff", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "16942", 
+        "fantasy_points": "19", 
+        "full_name": "Ka'Deem Carey", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "15369", 
+        "fantasy_points": "69.1", 
+        "full_name": "Lance Dunbar", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "14145", 
+        "fantasy_points": "76.9", 
+        "full_name": "Charles Clay", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "8416", 
+        "fantasy_points": "234.3", 
+        "full_name": "Alex Smith", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "14193", 
+        "fantasy_points": "30.1", 
+        "full_name": "Jacquizz Rodgers", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "14159", 
+        "fantasy_points": "11", 
+        "full_name": "Kendall Hunter", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "17703", 
+        "fantasy_points": "56", 
+        "full_name": "Kevin White", 
+        "injury": true, 
+        "position": "White", 
+        "team": "Kevin"
+    }, 
+    {
+        "espn_id": "17610", 
+        "fantasy_points": "234.3", 
+        "full_name": "Marcus Mariota", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15501", 
+        "fantasy_points": "25.8", 
+        "full_name": "Bobby Rainey", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "14891", 
+        "fantasy_points": "0", 
+        "full_name": "Bernard Pierce", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "14900", 
+        "fantasy_points": "76", 
+        "full_name": "Coby Fleener", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "14186", 
+        "fantasy_points": "1", 
+        "full_name": "Jordan Todman", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "14012", 
+        "fantasy_points": "226.4", 
+        "full_name": "Andy Dalton", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "14151", 
+        "fantasy_points": "62.5", 
+        "full_name": "Jeremy Kerley", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "60029", 
+        "fantasy_points": "104", 
+        "full_name": "CAR_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "CAR"
+    }, 
+    {
+        "espn_id": "60005", 
+        "fantasy_points": "96", 
+        "full_name": "CLE_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "CLE"
+    }, 
+    {
+        "espn_id": "9329", 
+        "fantasy_points": "128", 
+        "full_name": "Nick Novak", 
+        "injury": false, 
+        "position": "K", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "17169", 
+        "fantasy_points": "127", 
+        "full_name": "Chandler Catanzaro", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "14129", 
+        "fantasy_points": "51.1", 
+        "full_name": "Bilal Powell", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "15478", 
+        "fantasy_points": "23.1", 
+        "full_name": "Brandon Bolden", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "14875", 
+        "fantasy_points": "225.4", 
+        "full_name": "Robert Griffin", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "15632", 
+        "fantasy_points": "25.1", 
+        "full_name": "Jonathan Grimes", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "11674", 
+        "fantasy_points": "69.4", 
+        "full_name": "Danny Amendola", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "13212", 
+        "fantasy_points": "1", 
+        "full_name": "Boobie Dixon", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "16055", 
+        "fantasy_points": "51.1", 
+        "full_name": "Benjamin Cunningham", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "15428", 
+        "fantasy_points": "78", 
+        "full_name": "Jermaine Kearse", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "15092", 
+        "fantasy_points": "0", 
+        "full_name": "Bryce Brown", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "14922", 
+        "fantasy_points": "46", 
+        "full_name": "Mohamed Sanu", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "14892", 
+        "fantasy_points": "3", 
+        "full_name": "Edwin Baker", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "17584", 
+        "fantasy_points": "51", 
+        "full_name": "Devin Smith", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "17638", 
+        "fantasy_points": "45", 
+        "full_name": "Chris Conley", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "16945", 
+        "fantasy_points": "46.3", 
+        "full_name": "De'Anthony Thomas", 
+        "injury": false, 
+        "position": "RBWR", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "16732", 
+        "fantasy_points": "82.5", 
+        "full_name": "Eric Ebron", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "15788", 
+        "fantasy_points": "83.5", 
+        "full_name": "Tyler Eifert", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "14021", 
+        "fantasy_points": "70", 
+        "full_name": "Leonard Hankerson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "14918", 
+        "fantasy_points": "49", 
+        "full_name": "Jarius Wright", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "16838", 
+        "fantasy_points": "0", 
+        "full_name": "Tyler Gaffney", 
+        "injury": true, 
+        "position": "Gaffney", 
+        "team": "Tyler"
+    }, 
+    {
+        "espn_id": "9592", 
+        "fantasy_points": "75.4", 
+        "full_name": "Vernon Davis", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "16786", 
+        "fantasy_points": "74.7", 
+        "full_name": "Richard Rodgers", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "17562", 
+        "fantasy_points": "26", 
+        "full_name": "Sammie Coates", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "16581", 
+        "fantasy_points": "34", 
+        "full_name": "Marlon Brown", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "13207", 
+        "fantasy_points": "58.9", 
+        "full_name": "Dexter McCluster", 
+        "injury": false, 
+        "position": "WRRB", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15786", 
+        "fantasy_points": "74.2", 
+        "full_name": "Tavon Austin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "11658", 
+        "fantasy_points": "51.2", 
+        "full_name": "Mike Tolbert", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "60025", 
+        "fantasy_points": "100", 
+        "full_name": "SF_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "60012", 
+        "fantasy_points": "80", 
+        "full_name": "KC_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "10621", 
+        "fantasy_points": "126", 
+        "full_name": "Nick Folk", 
+        "injury": false, 
+        "position": "K", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "4680", 
+        "fantasy_points": "126", 
+        "full_name": "Josh Brown", 
+        "injury": false, 
+        "position": "K", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "11717", 
+        "fantasy_points": "23.1", 
+        "full_name": "Marcel Reece", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "16884", 
+        "fantasy_points": "1", 
+        "full_name": "Storm Johnson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "15966", 
+        "fantasy_points": "10", 
+        "full_name": "Chris Thompson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "16792", 
+        "fantasy_points": "65.6", 
+        "full_name": "Jace Amaro", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "16757", 
+        "fantasy_points": "218.3", 
+        "full_name": "Derek Carr", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "13225", 
+        "fantasy_points": "42", 
+        "full_name": "Riley Cooper", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "16024", 
+        "fantasy_points": "2", 
+        "full_name": "Kerwynn Williams", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "15880", 
+        "fantasy_points": "65.8", 
+        "full_name": "Robert Woods", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "17605", 
+        "fantasy_points": "18", 
+        "full_name": "Karlos Williams", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "17660", 
+        "fantasy_points": "58.7", 
+        "full_name": "Maxx Williams", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "17182", 
+        "fantasy_points": "45", 
+        "full_name": "Albert Wilson", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "15981", 
+        "fantasy_points": "6", 
+        "full_name": "Stepfan Taylor", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17397", 
+        "fantasy_points": "4", 
+        "full_name": "Josh Harris", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "8664", 
+        "fantasy_points": "145.9", 
+        "full_name": "Ryan Fitzpatrick", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "14877", 
+        "fantasy_points": "217.2", 
+        "full_name": "Nick Foles", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "11373", 
+        "fantasy_points": "63.7", 
+        "full_name": "Jacob Tamme", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "12537", 
+        "fantasy_points": "66.8", 
+        "full_name": "Jared Cook", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "15923", 
+        "fantasy_points": "52.2", 
+        "full_name": "Mychal Rivera", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "14009", 
+        "fantasy_points": "48.5", 
+        "full_name": "Rob Housler", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "16724", 
+        "fantasy_points": "215.2", 
+        "full_name": "Blake Bortles", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "14085", 
+        "fantasy_points": "46.7", 
+        "full_name": "Virgil Green", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "3609", 
+        "fantasy_points": "162.1", 
+        "full_name": "Josh McCown", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "14904", 
+        "fantasy_points": "59.8", 
+        "full_name": "Ladarius Green", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "17542", 
+        "fantasy_points": "28", 
+        "full_name": "Justin Hardy", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "8644", 
+        "fantasy_points": "121.8", 
+        "full_name": "Matt Cassel", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "16760", 
+        "fantasy_points": "55.3", 
+        "full_name": "Jimmy Garoppolo", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "17488", 
+        "fantasy_points": "21", 
+        "full_name": "Kenny Bell", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "15974", 
+        "fantasy_points": "40.7", 
+        "full_name": "Dion Sims", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "15391", 
+        "fantasy_points": "51", 
+        "full_name": "Rod Streater", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "11543", 
+        "fantasy_points": "130", 
+        "full_name": "Garrett Hartley", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "14898", 
+        "fantasy_points": "2", 
+        "full_name": "Vick Ballard", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "10572", 
+        "fantasy_points": "30.9", 
+        "full_name": "Scott Chandler", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NE"
+    }, 
+    {
+        "espn_id": "15822", 
+        "fantasy_points": "35", 
+        "full_name": "Stedman Bailey", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "14403", 
+        "fantasy_points": "38", 
+        "full_name": "Andre Holmes", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "5557", 
+        "fantasy_points": "47.8", 
+        "full_name": "Benjamin Watson", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "15755", 
+        "fantasy_points": "9.5", 
+        "full_name": "Fozzy Whittaker", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "15952", 
+        "fantasy_points": 0, 
+        "full_name": "Mike Gillislee", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "10522", 
+        "fantasy_points": "15", 
+        "full_name": "James Jones", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "14993", 
+        "fantasy_points": "123", 
+        "full_name": "Greg Zuerlein", 
+        "injury": false, 
+        "position": "K", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "17153", 
+        "fantasy_points": "1", 
+        "full_name": "Darrin Reaves", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "17734", 
+        "fantasy_points": "32", 
+        "full_name": "Chris Matthews", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "17140", 
+        "fantasy_points": "17.1", 
+        "full_name": "Juwan Thompson", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "16755", 
+        "fantasy_points": "28.1", 
+        "full_name": "Dri Archer", 
+        "injury": false, 
+        "position": "RB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "17730", 
+        "fantasy_points": "2", 
+        "full_name": "Duron Carter", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "9354", 
+        "fantasy_points": "123", 
+        "full_name": "Robbie Gould", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "17177", 
+        "fantasy_points": "51", 
+        "full_name": "Taylor Gabriel", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "60004", 
+        "fantasy_points": "102", 
+        "full_name": "CIN_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "CIN"
+    }, 
+    {
+        "espn_id": "10453", 
+        "fantasy_points": "50", 
+        "full_name": "Ted Ginn Jr.", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "10605", 
+        "fantasy_points": "35.8", 
+        "full_name": "Brent Celek", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "13371", 
+        "fantasy_points": "26.7", 
+        "full_name": "Garrett Graham", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "14051", 
+        "fantasy_points": "18", 
+        "full_name": "Ryan Williams", 
+        "injury": true, 
+        "position": "Williams", 
+        "team": "Ryan"
+    }, 
+    {
+        "espn_id": "16781", 
+        "fantasy_points": "5", 
+        "full_name": "Paul Richardson", 
+        "injury": true, 
+        "position": "Richardson", 
+        "team": "Paul"
+    }, 
+    {
+        "espn_id": "10147", 
+        "fantasy_points": "22", 
+        "full_name": "Miles Austin", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "11318", 
+        "fantasy_points": "47", 
+        "full_name": "Harry Douglas", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15965", 
+        "fantasy_points": "127", 
+        "full_name": "Dustin Hopkins", 
+        "injury": false, 
+        "position": "K", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "60011", 
+        "fantasy_points": "101", 
+        "full_name": "IND_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "IND"
+    }, 
+    {
+        "espn_id": "14037", 
+        "fantasy_points": "76.4", 
+        "full_name": "Ryan Mallett", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "60027", 
+        "fantasy_points": "105", 
+        "full_name": "TB_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "12477", 
+        "fantasy_points": "133.7", 
+        "full_name": "Brian Hoyer", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "13440", 
+        "fantasy_points": "26.9", 
+        "full_name": "Andrew Quarless", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "17193", 
+        "fantasy_points": "1", 
+        "full_name": "James Wright", 
+        "injury": true, 
+        "position": "Wright", 
+        "team": "James"
+    }, 
+    {
+        "espn_id": "17172", 
+        "fantasy_points": "125", 
+        "full_name": "Cairo Santos", 
+        "injury": false, 
+        "position": "K", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "12460", 
+        "fantasy_points": "124", 
+        "full_name": "Graham Gano", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "15836", 
+        "fantasy_points": "37.9", 
+        "full_name": "Gavin Escobar", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "17137", 
+        "fantasy_points": "2", 
+        "full_name": "Jeff Janis", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "14163", 
+        "fantasy_points": "66.4", 
+        "full_name": "Tyrod Taylor", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "17139", 
+        "fantasy_points": "4", 
+        "full_name": "Corey Washington", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "17136", 
+        "fantasy_points": "14", 
+        "full_name": "Dontrelle Inman", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "9307", 
+        "fantasy_points": "93", 
+        "full_name": "Nate Washington", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "9614", 
+        "fantasy_points": "33.8", 
+        "full_name": "Marcedes Lewis", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "60019", 
+        "fantasy_points": "101", 
+        "full_name": "NYG_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "16736", 
+        "fantasy_points": "11.1", 
+        "full_name": "Johnny Manziel", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "12482", 
+        "fantasy_points": "6", 
+        "full_name": "Mark Sanchez", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Phi"
+    }, 
+    {
+        "espn_id": "16285", 
+        "fantasy_points": "22.9", 
+        "full_name": "Timothy Wright", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "14153", 
+        "fantasy_points": "1", 
+        "full_name": "Denarius Moore", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "13228", 
+        "fantasy_points": "21.6", 
+        "full_name": "Jermaine Gresham", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "16775", 
+        "fantasy_points": "37.8", 
+        "full_name": "Crockett Gillmore", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "5633", 
+        "fantasy_points": "49", 
+        "full_name": "Jerricho Cotchery", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "17650", 
+        "fantasy_points": "20.9", 
+        "full_name": "Tyler Kroft", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "16121", 
+        "fantasy_points": "18", 
+        "full_name": "Luke Willson", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "12586", 
+        "fantasy_points": "28", 
+        "full_name": "Hakeem Nicks", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "17601", 
+        "fantasy_points": "24.9", 
+        "full_name": "Rashad Greene", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "60001", 
+        "fantasy_points": "81", 
+        "full_name": "ATL_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "ATL"
+    }, 
+    {
+        "espn_id": "8461", 
+        "fantasy_points": "123", 
+        "full_name": "Mike Nugent", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "15091", 
+        "fantasy_points": "125", 
+        "full_name": "Randy Bullock", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "16330", 
+        "fantasy_points": "17.9", 
+        "full_name": "Joseph Fauria", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "17600", 
+        "fantasy_points": "33.6", 
+        "full_name": "Jamison Crowder", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "11364", 
+        "fantasy_points": "15.9", 
+        "full_name": "Gary Barnidge", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "17475", 
+        "fantasy_points": "44.7", 
+        "full_name": "Clive Walford", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "15853", 
+        "fantasy_points": "6.9", 
+        "full_name": "Vance McDonald", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "60006", 
+        "fantasy_points": "82", 
+        "full_name": "DAL_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "DAL"
+    }, 
+    {
+        "espn_id": "15864", 
+        "fantasy_points": "88.5", 
+        "full_name": "Geno Smith", 
+        "injury": true, 
+        "position": "Smith", 
+        "team": "Geno"
+    }, 
+    {
+        "espn_id": "16766", 
+        "fantasy_points": "20.9", 
+        "full_name": "C.J. Fiedorowicz", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "14880", 
+        "fantasy_points": "12.1", 
+        "full_name": "Kirk Cousins", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "17731", 
+        "fantasy_points": 0, 
+        "full_name": "Josh Harper", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "14816", 
+        "fantasy_points": "123", 
+        "full_name": "Kai Forbath", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "60023", 
+        "fantasy_points": "78", 
+        "full_name": "PIT_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "PIT"
+    }, 
+    {
+        "espn_id": "13231", 
+        "fantasy_points": "37.9", 
+        "full_name": "Dennis Pitta", 
+        "injury": true, 
+        "position": "Pitta", 
+        "team": "Dennis"
+    }, 
+    {
+        "espn_id": "12731", 
+        "fantasy_points": "124", 
+        "full_name": "Ryan Succop", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "15803", 
+        "fantasy_points": "10.1", 
+        "full_name": "EJ Manuel", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Buf"
+    }, 
+    {
+        "espn_id": "60030", 
+        "fantasy_points": "79", 
+        "full_name": "JAC_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "JAC"
+    }, 
+    {
+        "espn_id": "2148", 
+        "fantasy_points": "119", 
+        "full_name": "Sebastian Janikowski", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "13289", 
+        "fantasy_points": "4", 
+        "full_name": "Tony Moeaki", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "14878", 
+        "fantasy_points": "8.1", 
+        "full_name": "Brandon Weeden", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "17550", 
+        "fantasy_points": "2.7", 
+        "full_name": "Tre McBride", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "5662", 
+        "fantasy_points": "116", 
+        "full_name": "Josh Scobee", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "14007", 
+        "fantasy_points": "39.8", 
+        "full_name": "Lance Kendricks", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "60018", 
+        "fantasy_points": "73", 
+        "full_name": "NO_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "17180", 
+        "fantasy_points": "115", 
+        "full_name": "Patrick Murray", 
+        "injury": false, 
+        "position": "K", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "12535", 
+        "fantasy_points": "16.9", 
+        "full_name": "James Casey", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "60010", 
+        "fantasy_points": "87", 
+        "full_name": "TEN_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "TEN"
+    }, 
+    {
+        "espn_id": "17187", 
+        "fantasy_points": "37.8", 
+        "full_name": "Darren Fells", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "17157", 
+        "fantasy_points": "102", 
+        "full_name": "Travis Coons", 
+        "injury": false, 
+        "position": "K", 
+        "team": "Cle"
+    }, 
+    {
+        "espn_id": "14879", 
+        "fantasy_points": "0", 
+        "full_name": "Brock Osweiler", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Den"
+    }, 
+    {
+        "espn_id": "17732", 
+        "fantasy_points": 0, 
+        "full_name": "Antwan Goodley", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Dal"
+    }, 
+    {
+        "espn_id": "8627", 
+        "fantasy_points": "8", 
+        "full_name": "Derek Anderson", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Car"
+    }, 
+    {
+        "espn_id": "16797", 
+        "fantasy_points": "32.8", 
+        "full_name": "Troy Niklas", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "60003", 
+        "fantasy_points": "92", 
+        "full_name": "CHI_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "CHI"
+    }, 
+    {
+        "espn_id": "13198", 
+        "fantasy_points": "9.1", 
+        "full_name": "Jimmy Clausen", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Chi"
+    }, 
+    {
+        "espn_id": "15837", 
+        "fantasy_points": "0", 
+        "full_name": "Mike Glennon", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "TB"
+    }, 
+    {
+        "espn_id": "12549", 
+        "fantasy_points": "5.9", 
+        "full_name": "Brandon Pettigrew", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "16814", 
+        "fantasy_points": "0", 
+        "full_name": "Zach Mettenberger", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "10487", 
+        "fantasy_points": "11.1", 
+        "full_name": "Drew Stanton", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ari"
+    }, 
+    {
+        "espn_id": "15887", 
+        "fantasy_points": "16.9", 
+        "full_name": "Ryan Griffin", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "4260", 
+        "fantasy_points": "0", 
+        "full_name": "Shaun Hill", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Min"
+    }, 
+    {
+        "espn_id": "60024", 
+        "fantasy_points": "65", 
+        "full_name": "SD_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "9639", 
+        "fantasy_points": "12.9", 
+        "full_name": "Anthony Fasano", 
+        "injury": false, 
+        "position": "TE", 
+        "team": "Ten"
+    }, 
+    {
+        "espn_id": "9780", 
+        "fantasy_points": "7", 
+        "full_name": "Bruce Gradkowski", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Pit"
+    }, 
+    {
+        "espn_id": "1575", 
+        "fantasy_points": "0", 
+        "full_name": "Matt Hasselbeck", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Ind"
+    }, 
+    {
+        "espn_id": "60028", 
+        "fantasy_points": "67", 
+        "full_name": "WAS_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "WAS"
+    }, 
+    {
+        "espn_id": "15187", 
+        "fantasy_points": "8", 
+        "full_name": "Austin Davis", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "StL"
+    }, 
+    {
+        "espn_id": "14353", 
+        "fantasy_points": "0", 
+        "full_name": "Scott Tolzien", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "12471", 
+        "fantasy_points": "8", 
+        "full_name": "Chase Daniel", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "KC"
+    }, 
+    {
+        "espn_id": "13199", 
+        "fantasy_points": "0", 
+        "full_name": "Colt McCoy", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Wsh"
+    }, 
+    {
+        "espn_id": "15891", 
+        "fantasy_points": "0", 
+        "full_name": "Ryan Nassib", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NYG"
+    }, 
+    {
+        "espn_id": "5631", 
+        "fantasy_points": "0", 
+        "full_name": "Luke McCown", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "14114", 
+        "fantasy_points": "0", 
+        "full_name": "T.J. Yates", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Atl"
+    }, 
+    {
+        "espn_id": "8559", 
+        "fantasy_points": "0", 
+        "full_name": "Dan Orlovsky", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Det"
+    }, 
+    {
+        "espn_id": "11291", 
+        "fantasy_points": "0", 
+        "full_name": "Chad Henne", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Jac"
+    }, 
+    {
+        "espn_id": "60013", 
+        "fantasy_points": "47", 
+        "full_name": "OAK_DST", 
+        "injury": false, 
+        "position": "DST", 
+        "team": "OAK"
+    }, 
+    {
+        "espn_id": "5615", 
+        "fantasy_points": "0", 
+        "full_name": "Matt Schaub", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Bal"
+    }, 
+    {
+        "espn_id": "9635", 
+        "fantasy_points": "0", 
+        "full_name": "Kellen Clemens", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "SD"
+    }, 
+    {
+        "espn_id": "11128", 
+        "fantasy_points": "0", 
+        "full_name": "Matt Moore", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Mia"
+    }, 
+    {
+        "espn_id": "9650", 
+        "fantasy_points": "0", 
+        "full_name": "Tarvaris Jackson", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Sea"
+    }, 
+    {
+        "espn_id": "17613", 
+        "fantasy_points": "0", 
+        "full_name": "Brett Hundley", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "16810", 
+        "fantasy_points": "0", 
+        "full_name": "AJ McCarron", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Cin"
+    }, 
+    {
+        "espn_id": "17572", 
+        "fantasy_points": "0", 
+        "full_name": "Garrett Grayson", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NO"
+    }, 
+    {
+        "espn_id": "13987", 
+        "fantasy_points": "8", 
+        "full_name": "Blaine Gabbert", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "SF"
+    }, 
+    {
+        "espn_id": "13966", 
+        "fantasy_points": "0", 
+        "full_name": "Christian Ponder", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Oak"
+    }, 
+    {
+        "espn_id": "16943", 
+        "fantasy_points": "0", 
+        "full_name": "Tom Savage", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "Hou"
+    }, 
+    {
+        "espn_id": "17434", 
+        "fantasy_points": "0", 
+        "full_name": "Bryce Petty", 
+        "injury": false, 
+        "position": "QB", 
+        "team": "NYJ"
+    }, 
+    {
+        "espn_id": "17611", 
+        "fantasy_points": "9.3", 
+        "full_name": "Ty Montgomery", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "GB"
+    }, 
+    {
+        "espn_id": "17553", 
+        "fantasy_points": 0, 
+        "full_name": "Dezmin Lewis", 
+        "injury": false, 
+        "position": "WR", 
+        "team": "Buf"
+    }
+]

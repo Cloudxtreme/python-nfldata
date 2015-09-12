@@ -1,0 +1,2626 @@
+[
+    {
+        "bye": "4", 
+        "fantasy_points": "170.9", 
+        "fftoday_id": "11452", 
+        "full_name": "Rob Gronkowski", 
+        "position": "te", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "131.7", 
+        "fftoday_id": "11505", 
+        "full_name": "Jimmy Graham", 
+        "position": "te", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "128.5", 
+        "fftoday_id": "2761", 
+        "full_name": "Greg Olsen", 
+        "position": "te", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "115.4", 
+        "fftoday_id": "13217", 
+        "full_name": "Travis Kelce", 
+        "position": "te", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "110.7", 
+        "fftoday_id": "2892", 
+        "full_name": "Martellus Bennett", 
+        "position": "te", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "106.9", 
+        "fftoday_id": "2272", 
+        "full_name": "Jason Witten", 
+        "position": "te", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "103.5", 
+        "fftoday_id": "2663", 
+        "full_name": "Delanie Walker", 
+        "position": "te", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "102.5", 
+        "fftoday_id": "12309", 
+        "full_name": "Coby Fleener", 
+        "position": "te", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "100.5", 
+        "fftoday_id": "13104", 
+        "full_name": "Zach Ertz", 
+        "position": "te", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "92.7", 
+        "fftoday_id": "2606", 
+        "full_name": "Vernon Davis", 
+        "position": "te", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "92.6", 
+        "fftoday_id": "12338", 
+        "full_name": "Dwayne Allen", 
+        "position": "te", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "91.8", 
+        "fftoday_id": "14427", 
+        "full_name": "Josh Hill", 
+        "position": "te", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "91.3", 
+        "fftoday_id": "2637", 
+        "full_name": "Owen Daniels", 
+        "position": "te", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "87.5", 
+        "fftoday_id": "11897", 
+        "full_name": "Kyle Rudolph", 
+        "position": "te", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "86.4", 
+        "fftoday_id": "2483", 
+        "full_name": "Heath Miller", 
+        "position": "te", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "85.8", 
+        "fftoday_id": "2373", 
+        "full_name": "Antonio Gates", 
+        "position": "te", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "85.1", 
+        "fftoday_id": "11089", 
+        "full_name": "Jared Cook", 
+        "position": "te", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "84.5", 
+        "fftoday_id": "11983", 
+        "full_name": "Julius Thomas", 
+        "position": "te", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "82.7", 
+        "fftoday_id": "13325", 
+        "full_name": "Jordan Reed", 
+        "position": "te", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "82.5", 
+        "fftoday_id": "11956", 
+        "full_name": "Jordan Cameron", 
+        "position": "te", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "82.1", 
+        "fftoday_id": "13101", 
+        "full_name": "Tyler Eifert", 
+        "position": "te", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "81.1", 
+        "fftoday_id": "12028", 
+        "full_name": "Charles Clay", 
+        "position": "te", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "76.2", 
+        "fftoday_id": "14311", 
+        "full_name": "Austin Seferian-Jenkins", 
+        "position": "te", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "73.5", 
+        "fftoday_id": "14302", 
+        "full_name": "Richard Rodgers", 
+        "position": "te", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "69.3", 
+        "fftoday_id": "14165", 
+        "full_name": "Eric Ebron", 
+        "position": "te", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "65.5", 
+        "fftoday_id": "14397", 
+        "full_name": "Larry Donnell", 
+        "position": "te", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "65.5", 
+        "fftoday_id": "13336", 
+        "full_name": "Mychal Rivera", 
+        "position": "te", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "62.9", 
+        "fftoday_id": "12384", 
+        "full_name": "Ladarius Green", 
+        "position": "te", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "60.9", 
+        "fftoday_id": "14108", 
+        "full_name": "Jace Amaro", 
+        "position": "te", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "59.5", 
+        "fftoday_id": "11923", 
+        "full_name": "Robert Housler", 
+        "position": "te", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "56.5", 
+        "fftoday_id": "2803", 
+        "full_name": "Brent Celek", 
+        "position": "te", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "51.9", 
+        "fftoday_id": "15338", 
+        "full_name": "Clive Walford", 
+        "position": "te", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "50.8", 
+        "fftoday_id": "14195", 
+        "full_name": "Crockett Gillmore", 
+        "position": "te", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "50.1", 
+        "fftoday_id": "15349", 
+        "full_name": "Maxx Williams", 
+        "position": "te", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "49.6", 
+        "fftoday_id": "11901", 
+        "full_name": "Lance Kendricks", 
+        "position": "te", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "45.6", 
+        "fftoday_id": "2793", 
+        "full_name": "Scott Chandler", 
+        "position": "te", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "44.3", 
+        "fftoday_id": "3085", 
+        "full_name": "Ben Watson", 
+        "position": "te", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "43.5", 
+        "fftoday_id": "11528", 
+        "full_name": "Garrett Graham", 
+        "position": "te", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "42.6", 
+        "fftoday_id": "11431", 
+        "full_name": "Jermaine Gresham", 
+        "position": "te", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "41.5", 
+        "fftoday_id": "11564", 
+        "full_name": "Andrew Quarless", 
+        "position": "te", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "40.8", 
+        "fftoday_id": "13407", 
+        "full_name": "Levine Toilolo", 
+        "position": "te", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "40.5", 
+        "fftoday_id": "2970", 
+        "full_name": "Jacob Tamme", 
+        "position": "te", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "38.6", 
+        "fftoday_id": "12058", 
+        "full_name": "Virgil Green", 
+        "position": "te", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "38.6", 
+        "fftoday_id": "11723", 
+        "full_name": "Jeff Cumberland", 
+        "position": "te", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "34.5", 
+        "fftoday_id": "13359", 
+        "full_name": "Dion Sims", 
+        "position": "te", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "27.5", 
+        "fftoday_id": "2612", 
+        "full_name": "Marcedes Lewis", 
+        "position": "te", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "26.5", 
+        "fftoday_id": "13105", 
+        "full_name": "Gavin Escobar", 
+        "position": "te", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "24.6", 
+        "fftoday_id": "11020", 
+        "full_name": "Brandon Pettigrew", 
+        "position": "te", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "23.4", 
+        "fftoday_id": "11202", 
+        "full_name": "Brandon Myers", 
+        "position": "te", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "21.4", 
+        "fftoday_id": "11480", 
+        "full_name": "Ed Dickson", 
+        "position": "te", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "142.0", 
+        "fftoday_id": "9000", 
+        "full_name": "BUF", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "138.0", 
+        "fftoday_id": "9013", 
+        "full_name": "SEA", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "133.0", 
+        "fftoday_id": "9016", 
+        "full_name": "PHI", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "131.0", 
+        "fftoday_id": "9025", 
+        "full_name": "STL", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "130.0", 
+        "fftoday_id": "9017", 
+        "full_name": "ARI", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "124.0", 
+        "fftoday_id": "9028", 
+        "full_name": "CAR", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "122.0", 
+        "fftoday_id": "9021", 
+        "full_name": "GB", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "121.0", 
+        "fftoday_id": "9003", 
+        "full_name": "NE", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "121.0", 
+        "fftoday_id": "9014", 
+        "full_name": "DAL", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "120.0", 
+        "fftoday_id": "9020", 
+        "full_name": "DET", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "119.0", 
+        "fftoday_id": "9010", 
+        "full_name": "KAN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "119.0", 
+        "fftoday_id": "9031", 
+        "full_name": "HOU", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "115.0", 
+        "fftoday_id": "9030", 
+        "full_name": "BAL", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "115.0", 
+        "fftoday_id": "9015", 
+        "full_name": "NYG", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "114.0", 
+        "fftoday_id": "9009", 
+        "full_name": "DEN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "114.0", 
+        "fftoday_id": "9019", 
+        "full_name": "CHI", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "113.0", 
+        "fftoday_id": "9002", 
+        "full_name": "MIA", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "113.0", 
+        "fftoday_id": "9027", 
+        "full_name": "SAN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "112.0", 
+        "fftoday_id": "9005", 
+        "full_name": "CIN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "111.0", 
+        "fftoday_id": "9006", 
+        "full_name": "CLE", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "108.0", 
+        "fftoday_id": "9001", 
+        "full_name": "IND", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "102.0", 
+        "fftoday_id": "9022", 
+        "full_name": "MIN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "102.0", 
+        "fftoday_id": "9018", 
+        "full_name": "WAS", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "101.0", 
+        "fftoday_id": "9029", 
+        "full_name": "JAC", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "100.0", 
+        "fftoday_id": "9008", 
+        "full_name": "PIT", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "100.0", 
+        "fftoday_id": "9024", 
+        "full_name": "ATL", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "98.0", 
+        "fftoday_id": "9026", 
+        "full_name": "NO", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "98.0", 
+        "fftoday_id": "9007", 
+        "full_name": "TEN", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "95.0", 
+        "fftoday_id": "9023", 
+        "full_name": "TB", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "84.0", 
+        "fftoday_id": "9004", 
+        "full_name": "NYJ", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "79.0", 
+        "fftoday_id": "9011", 
+        "full_name": "OAK", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "79.0", 
+        "fftoday_id": "9012", 
+        "full_name": "SD", 
+        "position": "dst"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "342.4", 
+        "fftoday_id": "12276", 
+        "full_name": "Andrew Luck", 
+        "position": "qb", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "333.9", 
+        "fftoday_id": "2480", 
+        "full_name": "Aaron Rodgers", 
+        "position": "qb", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "303.2", 
+        "fftoday_id": "12349", 
+        "full_name": "Russell Wilson", 
+        "position": "qb", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "287.7", 
+        "fftoday_id": "1490", 
+        "full_name": "Peyton Manning", 
+        "position": "qb", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "273.9", 
+        "fftoday_id": "11855", 
+        "full_name": "Cam Newton", 
+        "position": "qb", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "273.7", 
+        "fftoday_id": "2955", 
+        "full_name": "Matt Ryan", 
+        "position": "qb", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "270.7", 
+        "fftoday_id": "11001", 
+        "full_name": "Matthew Stafford", 
+        "position": "qb", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "267.7", 
+        "fftoday_id": "3066", 
+        "full_name": "Ben Roethlisberger", 
+        "position": "qb", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "264.7", 
+        "fftoday_id": "11890", 
+        "full_name": "Colin Kaepernick", 
+        "position": "qb", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "259.9", 
+        "fftoday_id": "3062", 
+        "full_name": "Philip Rivers", 
+        "position": "qb", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "258.7", 
+        "fftoday_id": "12283", 
+        "full_name": "Ryan Tannehill", 
+        "position": "qb", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "258.3", 
+        "fftoday_id": "2355", 
+        "full_name": "Tony Romo", 
+        "position": "qb", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "257.0", 
+        "fftoday_id": "1937", 
+        "full_name": "Drew Brees", 
+        "position": "qb", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "243.6", 
+        "fftoday_id": "3060", 
+        "full_name": "Eli Manning", 
+        "position": "qb", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "238.7", 
+        "fftoday_id": "2608", 
+        "full_name": "Jay Cutler", 
+        "position": "qb", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "233.6", 
+        "fftoday_id": "14131", 
+        "full_name": "Teddy Bridgewater", 
+        "position": "qb", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "232.0", 
+        "fftoday_id": "2471", 
+        "full_name": "Alex Smith", 
+        "position": "qb", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "229.7", 
+        "fftoday_id": "11889", 
+        "full_name": "Andy Dalton", 
+        "position": "qb", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "227.6", 
+        "fftoday_id": "2913", 
+        "full_name": "Joe Flacco", 
+        "position": "qb", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "219.9", 
+        "fftoday_id": "12277", 
+        "full_name": "Robert Griffin III", 
+        "position": "qb", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "216.9", 
+        "fftoday_id": "2254", 
+        "full_name": "Carson Palmer", 
+        "position": "qb", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "214.3", 
+        "fftoday_id": "14145", 
+        "full_name": "Derek Carr", 
+        "position": "qb", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "212.6", 
+        "fftoday_id": "1812", 
+        "full_name": "Tom Brady", 
+        "position": "qb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "212.0", 
+        "fftoday_id": "15353", 
+        "full_name": "Jameis Winston", 
+        "position": "qb", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "209.4", 
+        "fftoday_id": "15240", 
+        "full_name": "Marcus Mariota", 
+        "position": "qb", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "197.5", 
+        "fftoday_id": "14125", 
+        "full_name": "Blake Bortles", 
+        "position": "qb", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "195.6", 
+        "fftoday_id": "12362", 
+        "full_name": "Nick Foles", 
+        "position": "qb", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "192.6", 
+        "fftoday_id": "11411", 
+        "full_name": "Sam Bradford", 
+        "position": "qb", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "161.8", 
+        "fftoday_id": "2548", 
+        "full_name": "Ryan Fitzpatrick", 
+        "position": "qb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "143.7", 
+        "fftoday_id": "2121", 
+        "full_name": "Josh McCown", 
+        "position": "qb", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "112.2", 
+        "fftoday_id": "11285", 
+        "full_name": "Brian Hoyer", 
+        "position": "qb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "102.5", 
+        "fftoday_id": "2541", 
+        "full_name": "Matt Cassel", 
+        "position": "qb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "91.7", 
+        "fftoday_id": "11928", 
+        "full_name": "Ryan Mallett", 
+        "position": "qb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "84.6", 
+        "fftoday_id": "11005", 
+        "full_name": "Mark Sanchez", 
+        "position": "qb", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "81.3", 
+        "fftoday_id": "13362", 
+        "full_name": "Geno Smith", 
+        "position": "qb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "78.4", 
+        "fftoday_id": "12034", 
+        "full_name": "Tyrod Taylor", 
+        "position": "qb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "57.5", 
+        "fftoday_id": "14246", 
+        "full_name": "Johnny Manziel", 
+        "position": "qb", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "56.5", 
+        "fftoday_id": "14191", 
+        "full_name": "Jimmy Garoppolo", 
+        "position": "qb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "33.5", 
+        "fftoday_id": "12376", 
+        "full_name": "Kirk Cousins", 
+        "position": "qb", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "27.7", 
+        "fftoday_id": "14261", 
+        "full_name": "Zach Mettenberger", 
+        "position": "qb", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "24.3", 
+        "fftoday_id": "13255", 
+        "full_name": "EJ Manuel", 
+        "position": "qb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "17.9", 
+        "fftoday_id": "12297", 
+        "full_name": "Brandon Weeden", 
+        "position": "qb", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "17.6", 
+        "fftoday_id": "2534", 
+        "full_name": "Derek Anderson", 
+        "position": "qb", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "16.7", 
+        "fftoday_id": "2923", 
+        "full_name": "Chad Henne", 
+        "position": "qb", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "14.0", 
+        "fftoday_id": "13129", 
+        "full_name": "Mike Glennon", 
+        "position": "qb", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "12.6", 
+        "fftoday_id": "2216", 
+        "full_name": "Shaun Hill", 
+        "position": "qb", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "11.8", 
+        "fftoday_id": "12805", 
+        "full_name": "Austin Davis", 
+        "position": "qb", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "11.5", 
+        "fftoday_id": "11322", 
+        "full_name": "Chase Daniel", 
+        "position": "qb", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "9.9", 
+        "fftoday_id": "11458", 
+        "full_name": "Jimmy Clausen", 
+        "position": "qb", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "9.8", 
+        "fftoday_id": "2668", 
+        "full_name": "Bruce Gradkowski", 
+        "position": "qb", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "100.5", 
+        "fftoday_id": "15101", 
+        "full_name": "Nelson Agholor", 
+        "position": "wr", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "99.5", 
+        "fftoday_id": "1052", 
+        "full_name": "Malcom Floyd", 
+        "position": "wr", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "97.7", 
+        "fftoday_id": "15274", 
+        "full_name": "Breshad Perriman", 
+        "position": "wr", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "90.2", 
+        "fftoday_id": "11022", 
+        "full_name": "Percy Harvin", 
+        "position": "wr", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "89.6", 
+        "fftoday_id": "11721", 
+        "full_name": "Victor Cruz", 
+        "position": "wr", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "88.5", 
+        "fftoday_id": "2935", 
+        "full_name": "Steve Johnson", 
+        "position": "wr", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "86.9", 
+        "fftoday_id": "2953", 
+        "full_name": "Eddie Royal", 
+        "position": "wr", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "85.5", 
+        "fftoday_id": "12308", 
+        "full_name": "Brian Quick", 
+        "position": "wr", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "83.4", 
+        "fftoday_id": "13430", 
+        "full_name": "Markus Wheaton", 
+        "position": "wr", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "75.5", 
+        "fftoday_id": "13014", 
+        "full_name": "Tavon Austin", 
+        "position": "wr", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "73.6", 
+        "fftoday_id": "14383", 
+        "full_name": "Allen Hurns", 
+        "position": "wr", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "72.9", 
+        "fftoday_id": "11010", 
+        "full_name": "Michael Crabtree", 
+        "position": "wr", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "72.7", 
+        "fftoday_id": "12699", 
+        "full_name": "Cole Beasley", 
+        "position": "wr", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "71.9", 
+        "fftoday_id": "12357", 
+        "full_name": "Mohamed Sanu", 
+        "position": "wr", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "70.5", 
+        "fftoday_id": "14390", 
+        "full_name": "Philly Brown", 
+        "position": "wr", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "70.4", 
+        "fftoday_id": "14233", 
+        "full_name": "Cody Latimer", 
+        "position": "wr", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "69.2", 
+        "fftoday_id": "2619", 
+        "full_name": "Greg Jennings", 
+        "position": "wr", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "66.7", 
+        "fftoday_id": "11498", 
+        "full_name": "Andre Roberts", 
+        "position": "wr", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "66.2", 
+        "fftoday_id": "12194", 
+        "full_name": "Andrew Hawkins", 
+        "position": "wr", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "66.2", 
+        "fftoday_id": "13308", 
+        "full_name": "Cordarrelle Patterson", 
+        "position": "wr", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "65.1", 
+        "fftoday_id": "14218", 
+        "full_name": "Jeff Janis", 
+        "position": "wr", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "60.9", 
+        "fftoday_id": "11968", 
+        "full_name": "Cecil Shorts", 
+        "position": "wr", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "60.6", 
+        "fftoday_id": "11108", 
+        "full_name": "Brian Hartline", 
+        "position": "wr", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "59.6", 
+        "fftoday_id": "15158", 
+        "full_name": "Phillip Dorsett", 
+        "position": "wr", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "58.5", 
+        "fftoday_id": "12440", 
+        "full_name": "Marvin Jones", 
+        "position": "wr", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "57.6", 
+        "fftoday_id": "15029", 
+        "full_name": "Jermaine Kearse", 
+        "position": "wr", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "57.6", 
+        "fftoday_id": "14582", 
+        "full_name": "Brandon Coleman", 
+        "position": "wr", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "56.9", 
+        "fftoday_id": "12007", 
+        "full_name": "Jeremy Kerley", 
+        "position": "wr", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "56.8", 
+        "fftoday_id": "2909", 
+        "full_name": "Harry Douglas", 
+        "position": "wr", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "56.6", 
+        "fftoday_id": "12392", 
+        "full_name": "Jarius Wright", 
+        "position": "wr", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "56.6", 
+        "fftoday_id": "3105", 
+        "full_name": "Jerricho Cotchery", 
+        "position": "wr", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "54.2", 
+        "fftoday_id": "14265", 
+        "full_name": "Donte Moncrief", 
+        "position": "wr", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "53.9", 
+        "fftoday_id": "12781", 
+        "full_name": "Rod Streater", 
+        "position": "wr", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "51.5", 
+        "fftoday_id": "13451", 
+        "full_name": "Marquess Wilson", 
+        "position": "wr", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "50.5", 
+        "fftoday_id": "13459", 
+        "full_name": "Robert Woods", 
+        "position": "wr", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "50.4", 
+        "fftoday_id": "12226", 
+        "full_name": "Kamar Aiken", 
+        "position": "wr", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "49.7", 
+        "fftoday_id": "12396", 
+        "full_name": "Nick Toon", 
+        "position": "wr", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "49.5", 
+        "fftoday_id": "14507", 
+        "full_name": "Albert Wilson", 
+        "position": "wr", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "49.0", 
+        "fftoday_id": "11569", 
+        "full_name": "Riley Cooper", 
+        "position": "wr", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "48.5", 
+        "fftoday_id": "15325", 
+        "full_name": "Jaelen Strong", 
+        "position": "wr", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "46.4", 
+        "fftoday_id": "2569", 
+        "full_name": "Nate Washington", 
+        "position": "wr", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "45.5", 
+        "fftoday_id": "15237", 
+        "full_name": "Tyler Lockett", 
+        "position": "wr", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "44.9", 
+        "fftoday_id": "15009", 
+        "full_name": "Jarrett Boykin", 
+        "position": "wr", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "44.2", 
+        "fftoday_id": "14237", 
+        "full_name": "Marqise Lee", 
+        "position": "wr", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "44.2", 
+        "fftoday_id": "15253", 
+        "full_name": "Ty Montgomery", 
+        "position": "wr", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "44.1", 
+        "fftoday_id": "11321", 
+        "full_name": "Danny Amendola", 
+        "position": "wr", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "43.6", 
+        "fftoday_id": "15141", 
+        "full_name": "Chris Conley", 
+        "position": "wr", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "43.5", 
+        "fftoday_id": "15271", 
+        "full_name": "DeVante Parker", 
+        "position": "wr", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "43.5", 
+        "fftoday_id": "15201", 
+        "full_name": "Justin Hardy", 
+        "position": "wr", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "43.5", 
+        "fftoday_id": "15192", 
+        "full_name": "Dorial Green-Beckham", 
+        "position": "wr", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "220.7", 
+        "fftoday_id": "14114", 
+        "full_name": "Odell Beckham Jr", 
+        "position": "wr", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "213.3", 
+        "fftoday_id": "11605", 
+        "full_name": "Antonio Brown", 
+        "position": "wr", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "208.9", 
+        "fftoday_id": "11432", 
+        "full_name": "Demaryius Thomas", 
+        "position": "wr", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "206.5", 
+        "fftoday_id": "11434", 
+        "full_name": "Dez Bryant", 
+        "position": "wr", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "196.2", 
+        "fftoday_id": "11860", 
+        "full_name": "Julio Jones", 
+        "position": "wr", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "189.0", 
+        "fftoday_id": "11858", 
+        "full_name": "A.J. Green", 
+        "position": "wr", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "183.9", 
+        "fftoday_id": "11918", 
+        "full_name": "Randall Cobb", 
+        "position": "wr", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "180.9", 
+        "fftoday_id": "2753", 
+        "full_name": "Calvin Johnson", 
+        "position": "wr", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "175.5", 
+        "fftoday_id": "13167", 
+        "full_name": "DeAndre Hopkins", 
+        "position": "wr", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "167.2", 
+        "fftoday_id": "12320", 
+        "full_name": "Alshon Jeffery", 
+        "position": "wr", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "161.4", 
+        "fftoday_id": "14172", 
+        "full_name": "Mike Evans", 
+        "position": "wr", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "153.4", 
+        "fftoday_id": "14255", 
+        "full_name": "Jordan Matthews", 
+        "position": "wr", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "151.8", 
+        "fftoday_id": "12366", 
+        "full_name": "T.Y. Hilton", 
+        "position": "wr", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "146.5", 
+        "fftoday_id": "11492", 
+        "full_name": "Emmanuel Sanders", 
+        "position": "wr", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "144.6", 
+        "fftoday_id": "2930", 
+        "full_name": "DeSean Jackson", 
+        "position": "wr", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "143.1", 
+        "fftoday_id": "11232", 
+        "full_name": "Julian Edelman", 
+        "position": "wr", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "142.1", 
+        "fftoday_id": "14153", 
+        "full_name": "Brandin Cooks", 
+        "position": "wr", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "138.5", 
+        "fftoday_id": "2256", 
+        "full_name": "Andre Johnson", 
+        "position": "wr", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "138.4", 
+        "fftoday_id": "14102", 
+        "full_name": "Davante Adams", 
+        "position": "wr", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "128.6", 
+        "fftoday_id": "2490", 
+        "full_name": "Vincent Jackson", 
+        "position": "wr", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "127.6", 
+        "fftoday_id": "14232", 
+        "full_name": "Jarvis Landry", 
+        "position": "wr", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "127.6", 
+        "fftoday_id": "13003", 
+        "full_name": "Keenan Allen", 
+        "position": "wr", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "127.5", 
+        "fftoday_id": "14350", 
+        "full_name": "Sammy Watkins", 
+        "position": "wr", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "125.7", 
+        "fftoday_id": "2646", 
+        "full_name": "Brandon Marshall", 
+        "position": "wr", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "124.7", 
+        "fftoday_id": "14139", 
+        "full_name": "Martavis Bryant", 
+        "position": "wr", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "124.6", 
+        "fftoday_id": "11470", 
+        "full_name": "Golden Tate", 
+        "position": "wr", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "124.5", 
+        "fftoday_id": "1950", 
+        "full_name": "Steve Smith", 
+        "position": "wr", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "123.9", 
+        "fftoday_id": "2267", 
+        "full_name": "Anquan Boldin", 
+        "position": "wr", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "123.8", 
+        "fftoday_id": "15143", 
+        "full_name": "Amari Cooper", 
+        "position": "wr", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "123.3", 
+        "fftoday_id": "11084", 
+        "full_name": "Mike Wallace", 
+        "position": "wr", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "122.6", 
+        "fftoday_id": "11497", 
+        "full_name": "Eric Decker", 
+        "position": "wr", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "121.7", 
+        "fftoday_id": "13193", 
+        "full_name": "Charles Johnson", 
+        "position": "wr", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "121.6", 
+        "fftoday_id": "11019", 
+        "full_name": "Jeremy Maclin", 
+        "position": "wr", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "120.5", 
+        "fftoday_id": "11488", 
+        "full_name": "Brandon LaFell", 
+        "position": "wr", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "117.7", 
+        "fftoday_id": "14137", 
+        "full_name": "John Brown", 
+        "position": "wr", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "115.1", 
+        "fftoday_id": "2918", 
+        "full_name": "Pierre Garcon", 
+        "position": "wr", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "115.0", 
+        "fftoday_id": "2482", 
+        "full_name": "Roddy White", 
+        "position": "wr", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "111.5", 
+        "fftoday_id": "14298", 
+        "full_name": "Allen Robinson", 
+        "position": "wr", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "111.5", 
+        "fftoday_id": "11912", 
+        "full_name": "Torrey Smith", 
+        "position": "wr", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "110.9", 
+        "fftoday_id": "13379", 
+        "full_name": "Kenny Stills", 
+        "position": "wr", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "110.5", 
+        "fftoday_id": "2681", 
+        "full_name": "Marques Colston", 
+        "position": "wr", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "110.1", 
+        "fftoday_id": "13446", 
+        "full_name": "Terrance Williams", 
+        "position": "wr", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "109.8", 
+        "fftoday_id": "3061", 
+        "full_name": "Larry Fitzgerald", 
+        "position": "wr", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "108.9", 
+        "fftoday_id": "12173", 
+        "full_name": "Doug Baldwin", 
+        "position": "wr", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "108.8", 
+        "fftoday_id": "11030", 
+        "full_name": "Kenny Britt", 
+        "position": "wr", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "108.7", 
+        "fftoday_id": "12337", 
+        "full_name": "Rueben Randle", 
+        "position": "wr", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "106.9", 
+        "fftoday_id": "12288", 
+        "full_name": "Michael Floyd", 
+        "position": "wr", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "106.5", 
+        "fftoday_id": "12295", 
+        "full_name": "Kendall Wright", 
+        "position": "wr", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "106.5", 
+        "fftoday_id": "2758", 
+        "full_name": "Dwayne Bowe", 
+        "position": "wr", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "104.7", 
+        "fftoday_id": "15175", 
+        "full_name": "Devin Funchess", 
+        "position": "wr", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "73.8", 
+        "fftoday_id": "2604", 
+        "full_name": "Reggie Bush", 
+        "position": "rb", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "72.8", 
+        "fftoday_id": "14447", 
+        "full_name": "Damien Williams", 
+        "position": "rb", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "66.8", 
+        "fftoday_id": "13338", 
+        "full_name": "Denard Robinson", 
+        "position": "rb", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "63.8", 
+        "fftoday_id": "14359", 
+        "full_name": "Andre Williams", 
+        "position": "rb", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "62.8", 
+        "fftoday_id": "12465", 
+        "full_name": "Dan Herron", 
+        "position": "rb", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "62.3", 
+        "fftoday_id": "14333", 
+        "full_name": "Lorenzo Taliaferro", 
+        "position": "rb", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "61.7", 
+        "fftoday_id": "15038", 
+        "full_name": "Benny Cunningham", 
+        "position": "rb", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "61.1", 
+        "fftoday_id": "11980", 
+        "full_name": "Bilal Powell", 
+        "position": "rb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "60.9", 
+        "fftoday_id": "15226", 
+        "full_name": "Matt Jones", 
+        "position": "rb", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "60.8", 
+        "fftoday_id": "12341", 
+        "full_name": "Ronnie Hillman", 
+        "position": "rb", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "-", 
+        "fantasy_points": "60.6", 
+        "fftoday_id": "2951", 
+        "full_name": "Ray Rice", 
+        "position": "rb", 
+        "team": "FA"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "58.2", 
+        "fftoday_id": "11603", 
+        "full_name": "James Starks", 
+        "position": "rb", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "57.6", 
+        "fftoday_id": "15106", 
+        "full_name": "Javorius Allen", 
+        "position": "rb", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "54.6", 
+        "fftoday_id": "15004", 
+        "full_name": "Lance Dunbar", 
+        "position": "rb", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "53.9", 
+        "fftoday_id": "13334", 
+        "full_name": "Theo Riddick", 
+        "position": "rb", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "53.4", 
+        "fftoday_id": "13019", 
+        "full_name": "Montee Ball", 
+        "position": "rb", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "50.8", 
+        "fftoday_id": "15223", 
+        "full_name": "David Johnson", 
+        "position": "rb", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "50.1", 
+        "fftoday_id": "15028", 
+        "full_name": "Chris Polk", 
+        "position": "rb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "49.4", 
+        "fftoday_id": "12380", 
+        "full_name": "Robert Turbin", 
+        "position": "rb", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "48.6", 
+        "fftoday_id": "2611", 
+        "full_name": "DeAngelo Williams", 
+        "position": "rb", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "48.5", 
+        "fftoday_id": "2988", 
+        "full_name": "Mike Tolbert", 
+        "position": "rb", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "48.0", 
+        "fftoday_id": "11673", 
+        "full_name": "Antone Smith", 
+        "position": "rb", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "46.1", 
+        "fftoday_id": "15112", 
+        "full_name": "Cameron Artis-Payne", 
+        "position": "rb", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "46.0", 
+        "fftoday_id": "11927", 
+        "full_name": "Stevan Ridley", 
+        "position": "rb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "45.5", 
+        "fftoday_id": "11446", 
+        "full_name": "Dexter McCluster", 
+        "position": "rb", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "45.4", 
+        "fftoday_id": "14260", 
+        "full_name": "Jerick McKinnon", 
+        "position": "rb", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "42.9", 
+        "fftoday_id": "14465", 
+        "full_name": "Branden Oliver", 
+        "position": "rb", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "39.3", 
+        "fftoday_id": "14358", 
+        "full_name": "James White", 
+        "position": "rb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "39.0", 
+        "fftoday_id": "14356", 
+        "full_name": "Terrance West", 
+        "position": "rb", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "38.8", 
+        "fftoday_id": "14502", 
+        "full_name": "Jonas Gray", 
+        "position": "rb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "38.1", 
+        "fftoday_id": "12842", 
+        "full_name": "Travaris Cadet", 
+        "position": "rb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "36.5", 
+        "fftoday_id": "12672", 
+        "full_name": "Bobby Rainey", 
+        "position": "rb", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "36.3", 
+        "fftoday_id": "15102", 
+        "full_name": "Jay Ajayi", 
+        "position": "rb", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "36.0", 
+        "fftoday_id": "14334", 
+        "full_name": "De'Anthony Thomas", 
+        "position": "rb", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "35.6", 
+        "fftoday_id": "15039", 
+        "full_name": "Khiry Robinson", 
+        "position": "rb", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "35.3", 
+        "fftoday_id": "11969", 
+        "full_name": "Kendall Hunter", 
+        "position": "rb", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "34.8", 
+        "fftoday_id": "12841", 
+        "full_name": "Brandon Bolden", 
+        "position": "rb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "34.0", 
+        "fftoday_id": "11461", 
+        "full_name": "Toby Gerhart", 
+        "position": "rb", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "32.7", 
+        "fftoday_id": "12278", 
+        "full_name": "Trent Richardson", 
+        "position": "rb", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "31.6", 
+        "fftoday_id": "3222", 
+        "full_name": "Marcel Reece", 
+        "position": "rb", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "28.7", 
+        "fftoday_id": "13371", 
+        "full_name": "Zac Stacy", 
+        "position": "rb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "28.6", 
+        "fftoday_id": "14144", 
+        "full_name": "Ka'Deem Carey", 
+        "position": "rb", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "27.0", 
+        "fftoday_id": "15293", 
+        "full_name": "Josh Robinson", 
+        "position": "rb", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "24.9", 
+        "fftoday_id": "11583", 
+        "full_name": "Anthony Dixon", 
+        "position": "rb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "22.6", 
+        "fftoday_id": "13396", 
+        "full_name": "Stepfan Taylor", 
+        "position": "rb", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "22.1", 
+        "fftoday_id": "14532", 
+        "full_name": "Josh Harris", 
+        "position": "rb", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "22.0", 
+        "fftoday_id": "13278", 
+        "full_name": "Christine Michael", 
+        "position": "rb", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "21.1", 
+        "fftoday_id": "15051", 
+        "full_name": "Jonathan Grimes", 
+        "position": "rb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "18.1", 
+        "fftoday_id": "2723", 
+        "full_name": "John Kuhn", 
+        "position": "rb", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "16.8", 
+        "fftoday_id": "13213", 
+        "full_name": "Kyle Juszczyk", 
+        "position": "rb", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "229.3", 
+        "fftoday_id": "2756", 
+        "full_name": "Marshawn Lynch", 
+        "position": "rb", 
+        "team": "SEA"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "228.2", 
+        "fftoday_id": "2902", 
+        "full_name": "Jamaal Charles", 
+        "position": "rb", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "226.7", 
+        "fftoday_id": "2754", 
+        "full_name": "Adrian Peterson", 
+        "position": "rb", 
+        "team": "MIN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "223.5", 
+        "fftoday_id": "13029", 
+        "full_name": "Le'Veon Bell", 
+        "position": "rb", 
+        "team": "PIT"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "221.3", 
+        "fftoday_id": "13230", 
+        "full_name": "Eddie Lacy", 
+        "position": "rb", 
+        "team": "GB"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "219.0", 
+        "fftoday_id": "2916", 
+        "full_name": "Matt Forte", 
+        "position": "rb", 
+        "team": "CHI"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "210.4", 
+        "fftoday_id": "11925", 
+        "full_name": "DeMarco Murray", 
+        "position": "rb", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "207.1", 
+        "fftoday_id": "13008", 
+        "full_name": "C.J. Anderson", 
+        "position": "rb", 
+        "team": "DEN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "189.9", 
+        "fftoday_id": "2915", 
+        "full_name": "Justin Forsett", 
+        "position": "rb", 
+        "team": "BAL"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "189.1", 
+        "fftoday_id": "14207", 
+        "full_name": "Jeremy Hill", 
+        "position": "rb", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "183.1", 
+        "fftoday_id": "11882", 
+        "full_name": "Mark Ingram", 
+        "position": "rb", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "178.1", 
+        "fftoday_id": "11053", 
+        "full_name": "LeSean McCoy", 
+        "position": "rb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "172.7", 
+        "fftoday_id": "12371", 
+        "full_name": "Lamar Miller", 
+        "position": "rb", 
+        "team": "MIA"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "170.5", 
+        "fftoday_id": "15187", 
+        "full_name": "Melvin Gordon", 
+        "position": "rb", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "166.0", 
+        "fftoday_id": "2491", 
+        "full_name": "Frank Gore", 
+        "position": "rb", 
+        "team": "IND"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "165.8", 
+        "fftoday_id": "11746", 
+        "full_name": "LeGarrette Blount", 
+        "position": "rb", 
+        "team": "NE"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "159.4", 
+        "fftoday_id": "12447", 
+        "full_name": "Alfred Morris", 
+        "position": "rb", 
+        "team": "WAS"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "159.0", 
+        "fftoday_id": "13295", 
+        "full_name": "Latavius Murray", 
+        "position": "rb", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "156.0", 
+        "fftoday_id": "13323", 
+        "full_name": "Joseph Randle", 
+        "position": "rb", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "155.2", 
+        "fftoday_id": "14212", 
+        "full_name": "Carlos Hyde", 
+        "position": "rb", 
+        "team": "SF"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "151.2", 
+        "fftoday_id": "13103", 
+        "full_name": "Andre Ellington", 
+        "position": "rb", 
+        "team": "ARI"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "149.6", 
+        "fftoday_id": "2967", 
+        "full_name": "Jonathan Stewart", 
+        "position": "rb", 
+        "team": "CAR"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "143.8", 
+        "fftoday_id": "14381", 
+        "full_name": "Isaiah Crowell", 
+        "position": "rb", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "143.2", 
+        "fftoday_id": "15355", 
+        "full_name": "T.J. Yeldon", 
+        "position": "rb", 
+        "team": "JAC"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "141.7", 
+        "fftoday_id": "11250", 
+        "full_name": "Rashad Jennings", 
+        "position": "rb", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "7", 
+        "fantasy_points": "137.8", 
+        "fftoday_id": "13031", 
+        "full_name": "Giovani Bernard", 
+        "position": "rb", 
+        "team": "CIN"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "133.7", 
+        "fftoday_id": "15100", 
+        "full_name": "Ameer Abdullah", 
+        "position": "rb", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "131.2", 
+        "fftoday_id": "15197", 
+        "full_name": "Todd Gurley", 
+        "position": "rb", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "129.0", 
+        "fftoday_id": "15138", 
+        "full_name": "Tevin Coleman", 
+        "position": "rb", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "5", 
+        "fantasy_points": "128.5", 
+        "fftoday_id": "11719", 
+        "full_name": "Chris Ivory", 
+        "position": "rb", 
+        "team": "NYJ"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "126.9", 
+        "fftoday_id": "11754", 
+        "full_name": "Joique Bell", 
+        "position": "rb", 
+        "team": "DET"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "126.6", 
+        "fftoday_id": "12306", 
+        "full_name": "Doug Martin", 
+        "position": "rb", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "122.2", 
+        "fftoday_id": "11419", 
+        "full_name": "C.J. Spiller", 
+        "position": "rb", 
+        "team": "NO"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "114.2", 
+        "fftoday_id": "11345", 
+        "full_name": "Arian Foster", 
+        "position": "rb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "104.1", 
+        "fftoday_id": "14182", 
+        "full_name": "Devonta Freeman", 
+        "position": "rb", 
+        "team": "ATL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "99.6", 
+        "fftoday_id": "14121", 
+        "full_name": "Alfred Blue", 
+        "position": "rb", 
+        "team": "HOU"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "99.2", 
+        "fftoday_id": "14305", 
+        "full_name": "Bishop Sankey", 
+        "position": "rb", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "93.9", 
+        "fftoday_id": "11910", 
+        "full_name": "Shane Vereen", 
+        "position": "rb", 
+        "team": "NYG"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "88.3", 
+        "fftoday_id": "2513", 
+        "full_name": "Darren Sproles", 
+        "position": "rb", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "4", 
+        "fantasy_points": "87.3", 
+        "fftoday_id": "15137", 
+        "full_name": "David Cobb", 
+        "position": "rb", 
+        "team": "TEN"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "86.0", 
+        "fftoday_id": "2836", 
+        "full_name": "Fred Jackson", 
+        "position": "rb", 
+        "team": "BUF"
+    }, 
+    {
+        "bye": "11", 
+        "fantasy_points": "84.8", 
+        "fftoday_id": "15221", 
+        "full_name": "Duke Johnson", 
+        "position": "rb", 
+        "team": "CLE"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "83.6", 
+        "fftoday_id": "11959", 
+        "full_name": "Roy Helu", 
+        "position": "rb", 
+        "team": "OAK"
+    }, 
+    {
+        "bye": "8", 
+        "fantasy_points": "83.3", 
+        "fftoday_id": "11422", 
+        "full_name": "Ryan Mathews", 
+        "position": "rb", 
+        "team": "PHI"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "83.0", 
+        "fftoday_id": "14314", 
+        "full_name": "Charles Sims", 
+        "position": "rb", 
+        "team": "TB"
+    }, 
+    {
+        "bye": "10", 
+        "fantasy_points": "82.7", 
+        "fftoday_id": "11331", 
+        "full_name": "Danny Woodhead", 
+        "position": "rb", 
+        "team": "SD"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "81.9", 
+        "fftoday_id": "13084", 
+        "full_name": "Knile Davis", 
+        "position": "rb", 
+        "team": "KC"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "78.3", 
+        "fftoday_id": "14252", 
+        "full_name": "Tre Mason", 
+        "position": "rb", 
+        "team": "STL"
+    }, 
+    {
+        "bye": "6", 
+        "fantasy_points": "75.1", 
+        "fftoday_id": "2940", 
+        "full_name": "Darren McFadden", 
+        "position": "rb", 
+        "team": "DAL"
+    }, 
+    {
+        "bye": "9", 
+        "fantasy_points": "73.9", 
+        "fftoday_id": "2932", 
+        "full_name": "Chris Johnson", 
+        "position": "rb", 
+        "team": "ARI"
+    }
+]
